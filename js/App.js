@@ -4,10 +4,10 @@ import { Video } from './Video';
 import { Menu } from './Menu';
 
 const VIDEOS = {
-  fast: '',
-  slow: '',
-  cute: '',
-  eek: ''
+  fast: '/videos/react_video-fast.mp4',
+  slow: '/videos/react_video-slow.mp4',
+  cute: '/videos/react_video-cute.mp4',
+  eek: '/videos/react_video-eek.mp4'
 };
 
 class App extends React.Component {

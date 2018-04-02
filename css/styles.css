@@ -4,6 +4,13 @@ body {
 	font-family: 'Kaushan Script', cursive, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 400;
 	font-size: 40px;
+	padding-top: 60px;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 70px;
+	margin-bottom: 35px;
 }
 
 input {
